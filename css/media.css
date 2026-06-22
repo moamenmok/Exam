@@ -1,0 +1,186 @@
+/* sm 576px -  768px */
+@media screen and (min-width:576px) {
+    .sm-w100 {
+        width: 100%;
+    }
+
+    .sm-w50 {
+        width: 50%;
+    }
+
+    .sm-w33 {
+        width: 33.333%;
+    }
+
+    .sm-w25 {
+        width: 25%;
+    }
+
+    .sm-w20 {
+        width: 20%;
+    }
+
+    .sm-w16 {
+        width: 16.6667%;
+    }
+ 
+}
+
+/* md  768px - 992px */
+@media screen and (min-width:768px) {
+
+    .md-w100 {
+        width: 100% !;
+    }
+
+    .md-w50 {
+        width: 50%;
+    }
+
+    .md-w33 {
+        width: 33.333%;
+    }
+
+    .md-w25 {
+        width: 25%;
+    }
+
+    .md-w20 {
+        width: 20%;
+    }
+
+    .md-w16 {
+        width: 16.6667%;
+    }
+  .h-container{
+   
+       max-width:85%;
+   
+margin: auto;
+}
+.px-10{
+        padding-right: 5rem ;
+    padding-left: 5rem ;
+}
+}
+
+/* lg 992px - 1200px */
+@media screen and (min-width:992px) {
+
+    .lg-w100 {
+        width: 100%;
+    }
+
+    .lg-w50 {
+        width: 50%;
+    }
+
+    .lg-w33 {
+        width: 33.333%;
+    }
+
+    .lg-w25 {
+        width: 25%;
+    }
+
+    .lg-w20 {
+        width: 20%;
+    }
+
+    .lg-w16 {
+        width: 16.6667%;
+    }
+    .h-container{
+   
+       max-width:85%;
+   
+margin: auto;
+}
+.py-sec{
+        padding-block:5rem  0rem  ;
+    }
+    .pb-sec{
+    padding-bottom: 5rem;
+}
+
+.container-xl{
+    max-width: 100%;
+}
+.max-cxl-w {
+  max-width: 72rem;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+.menu-scroll{
+
+max-height: 100vh;
+    overflow:visible;
+    margin: auto;  
+}
+}
+
+/* xl 1200px - 1400px */
+@media screen and (min-width:1200px) {
+    .xl-w100 {
+        width: 100%;
+    }
+
+    .xl-w50 {
+        width: 50%;
+    }
+
+    .xl-w33 {
+        width: 33.333%;
+    }
+
+    .xl-w25 {
+        width: 25%;
+    }
+
+    .xl-w20 {
+        width: 20%;
+    }
+
+    .xl-w16 {
+        width: 16.6667%;
+    }
+    
+.h-container{
+   
+       max-width:60%;
+   
+margin: auto;
+}
+}
+
+/* xxl 1400px - ... */
+@media screen and (min-width:1400px) {
+    .xxl-w100 {
+        width: 100%;
+    }
+
+    .xxl-w50 {
+        width: 50%;
+    }
+
+    .xxl-w33 {
+        width: 33.333%;
+    }
+
+    .xxl-w25 {
+        width: 25%;
+    }
+
+    .xxl-w20 {
+        width: 20%;
+    }
+
+    .xxl-w16 {
+        width: 16.6667%;
+    }
+}
+
+
+
+
+                
